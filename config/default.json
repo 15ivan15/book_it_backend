@@ -1,6 +1,6 @@
 {
     "dbConfig": {
-        "host": "mongodb+srv://ivanMol:P9evLtwiRBIimIW0@cluster0.eoquh.mongodb.net",
+        "host": "mongodb+srv://ivanMol:P9evLtwiRBIimIW0@cluster0.neqnp.mongodb.net",
         "port": "",
         "dbName": "/usuarios"
     },
