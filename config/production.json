@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "host": "mongodb+srv://ivanMol:P9evLtwiRBIimIW0@cluster0.eoquh.mongodb.net",
+        "port": "",
+        "dbName": "/test"
+    },
+    "SECRETORPRIVATEKEY": "MiLlaveSecreta",
+    "PORT": 8080
+}
