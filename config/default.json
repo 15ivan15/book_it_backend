@@ -1,7 +1,7 @@
 {
     "dbConfig": {
-        "host": "mongodb://localhost",
-        "port": ":27017",
+        "host": "mongodb+srv://ivanMol:P9evLtwiRBIimIW0@cluster0.eoquh.mongodb.net",
+        "port": "",
         "dbName": "/usuarios"
     },
     "SECRETORPRIVATEKEY": "MiLlaveSecreta",
